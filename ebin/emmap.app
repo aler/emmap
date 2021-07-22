@@ -1,6 +1,6 @@
 {application, emmap,
  [
-  {description, ""},
+  {description, "memory mapped files"},
   {vsn, "1.0.0"},
   {modules, [
              emmap
